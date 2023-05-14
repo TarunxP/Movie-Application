@@ -2,7 +2,6 @@
 The Movie Booking Application is a comprehensive web-based platform built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) that allows users to easily browse, book, and manage their movie tickets online.
 
 -------------------------------------------------------------------------------------------------------------------------------
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif">
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif">
 
 This application provides a seamless and user-friendly experience for movie enthusiasts to explore the latest movies, check showtimes, reserve seats, and make secure online payments.
